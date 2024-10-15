@@ -1,0 +1,2 @@
+What is IP Address > 
+=> An IP address, or Internet Portocol Address, is a unique number that identifies a device connected to the internet or a local network. IP address are used to send receive information between device on a network. 
