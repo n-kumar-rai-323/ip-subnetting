@@ -10,7 +10,7 @@ Identifying intruders: IP addresses can be used to 3. 3. identify intruders.
 IP addresses are numeric values that are assigned to every type of network device, including computers, servers, telephones, cameras, printers, and sensors. 
 There are two versions of the Internet Protocol (IP) in use today: IPv4 and IPv6. IPv4 addresses are usually written as four octets separated by periods, while IPv6 addresses are typically written as eight sets of four hexadecimal digits separated by colons. 
 
-ip address structure 
+3. ip address structure 
 => An IP address is a 32-bit number that uniquely identifies a device on a TCP/IP network. it's typically written in dotted-decimal format, with four numbers separated by periods, such as 192.168.123.132
 
 
